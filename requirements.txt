@@ -1,13 +1,7 @@
 fastapi
-uvicorn[standard]
-langchain
-langchain-google-genai
-langchain-huggingface
-langchain-pinecone
-langchain-text-splitters
 pinecone
 python-dotenv
-streamlit
+huggingface-hub
+hypercorn
 pymupdf
-sentence-transformers
-hypercorn==0.14.4
+google-genai
